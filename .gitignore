@@ -1,0 +1,6 @@
+# IDE
+.idea
+
+# Folders
+/dist
+/node_modules
