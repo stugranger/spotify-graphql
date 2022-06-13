@@ -4,3 +4,6 @@
 # Folders
 /dist
 /node_modules
+
+# Secrets
+.env
